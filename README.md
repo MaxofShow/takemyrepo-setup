@@ -1,5 +1,7 @@
 # Take My Repo setup
 
+![Install this first: one command connects Claude Code, Codex and Cursor to Take My Repo](assets/takemyrepo-setup.png)
+
 Install this first. It connects your coding agent to [Take My Repo](https://takemyrepo.com) and tells it to search there first when you ask for a tool, a repo or a model.
 
 Then you can ask your agent things like “find me an open source app to remove image backgrounds” or “what runs Whisper on my Mac?”: it searches Take My Repo, reads what people who ran each repo said, and can install the one you pick.
